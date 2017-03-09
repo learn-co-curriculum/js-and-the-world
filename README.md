@@ -1,11 +1,13 @@
 ### Objectives
 
-Understand how javascript influenced the web.  
+Understand how Javascript influenced the web.  
 
 ### Javascript: it's kinda a big deal
 
-So in the previous lesson we learned the answer to what is javascript.  Javascript adds behavior to our HTML.  Or in dev speak:
+So in the previous lesson we learned the answer to what is Javascript.  Javascript adds behavior to our HTML.  Or in dev speak:
+
   * Javascript is a scripting language created to bring interactivity to the browser
+
 
 What is this interactivity?
 
@@ -16,7 +18,7 @@ What is this interactivity?
 Javascript is not:
 
   * Java
-  
+
 
   > Note: Java is a very different language and is not technically related to or even all that similar to javascript.  
 
@@ -28,7 +30,7 @@ Various tools and libraries are built in Javascript like:
   * D3 a charts animation library
 
 ![alt text][d3js]
-[d3js]: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/d3-js.jpg
+[d3js]: https://s3.amazonaws.com/learn-verified/d3-js.jpg
 > Sample of charts made with D3, a charts animation library
 
 Because javascript is the language of the browser, and users interact with websites through browsers, it is no surprise of Javascript's popularity.  A widespread developer survey showed that over 85% of full-stack developers use javascript.  
@@ -42,7 +44,7 @@ Javascript was built by Netscape.  In 1995, Netscape's browser dominated the web
 Javascript was written in 1995.  And then...
 
 ![alt text][crickets]
-[crickets]: https://s-media-cache-ak0.pinimg.com/564x/fb/d5/85/fbd58544cfd2d580a236892f54e28593.jpg
+[crickets]: https://s3.amazonaws.com/learn-verified/crickets.jpg
 > Crickets
 
 
@@ -53,7 +55,7 @@ Let's think about that.  This is the difference between 1995 and 2009 in cell ph
 **Cell Phones in 1995**
 ![alt text][pager]
 
-[pager]: https://i.cbc.ca/1.2929253.1422020251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pager.jpg
+[pager]: https://s3.amazonaws.com/learn-verified/pager.jpg
 
 
   > Yea in 1994, there were nearly twice as many pagers in use 60 million as cell phones 34 million.  Javascript was written in 1995.  
@@ -62,7 +64,7 @@ Let's think about that.  This is the difference between 1995 and 2009 in cell ph
 
 ![alt text][iphone]
 
-[iphone]: https://www.imore.com/sites/imore.com/files/styles/w800h450crop/public/field/image/2013/08/iphone_3gs_hero_4x3.jpg?itok=127Ggb7j&timestamp=1377020381
+[iphone]: https://s3.amazonaws.com/learn-verified/iphone.jpg
 
 > The iPhone had been around since June 2007.  In 2009, it was the world's third most popular cell phone.  Javascript was updated in 2009.
 
@@ -78,7 +80,7 @@ Then in 2005, something happened.  Google Maps launched.  Before google maps the
 
 
 ![alt text][maps]
-[maps]: https://i.ytimg.com/vi/-HLrC4nbghw/maxresdefault.jpg
+[maps]: https://s3.amazonaws.com/learn-verified/google-maps-mapquest.jpg
 > Google Maps showed that Javascript could make websites feel like an interactive Desktop application.
 
 With Google maps, a user could drag around the map and it would smoothly update.  There would be no full refresh.  The user could smoothly interact with a webpage as if it were a desktop application, or a video game.  
@@ -94,14 +96,14 @@ Soon after the debut of Google Maps, programmers began trying to fix Javascript 
 By 2010, Javascript frameworks were released.  Frameworks allow developers to code more easily by encouraging specific practices, and including useful libraries.  In 2010, Google released the AngularJS framework, and today it is used by 10,000 companies including PayPal and the Youtube.  In 2013, Facebook released React, which today is used by companies like Netflix, Yahoo!, and Khan Academy.  Additional frameworks like React Native allow developers to build professional grade Android and IPhone apps with Javascript.  
 
 ![alt text][javascript]
-[javascript]: https://airpair-blog.s3.amazonaws.com/wp-content/uploads/2014/08/urishaked-jscompare-2.png
+[javascript]: https://s3.amazonaws.com/learn-verified/angular-react-ember.png
 
 ### Upgrades to Javascript
 
 In 2015, the powers that make Javascript updated the language, to make it more developer friendly.  With all of these updates to Javascript, and with the flexibility that the language provides, the Javascript community is still rapidly developing best practices as to how to write Javascript code.  Dan Abramov made a major contribution to how programmers use Javascript with Redux in 2015.
 
 ![alt text][abramov]
-[abramov]: https://i.ytimg.com/vi/xsSnOQynTHs/hqdefault.jpg
+[abramov]: https://s3.amazonaws.com/learn-verified/abramov.jpg
 
 ### The Point
 
