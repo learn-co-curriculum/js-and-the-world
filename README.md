@@ -1,8 +1,4 @@
-### Objectives
-
-Understand how Javascript influenced the web.  
-
-### Javascript: it's kinda a big deal
+# Javascript: it's kinda a big deal
 
 So in the previous lesson we learned the answer to what is Javascript.  Javascript adds behavior to our HTML.  Or in dev speak:
 
@@ -29,8 +25,7 @@ Various tools and libraries are built in Javascript like:
   * React Native - library for building iOS and Android phone apps.
   * D3 a charts animation library
 
-![alt text][d3js]
-[d3js]: https://s3.amazonaws.com/learn-verified/d3-js.jpg
+![d3js](https://s3.amazonaws.com/learn-verified/d3-js.jpg)
 > Sample of charts made with D3, a charts animation library
 
 Because javascript is the language of the browser, and users interact with websites through browsers, it is no surprise of Javascript's popularity.  A widespread developer survey showed that over 85% of full-stack developers use javascript.  
@@ -43,8 +38,7 @@ Javascript was built by Netscape.  In 1995, Netscape's browser dominated the web
 
 Javascript was written in 1995.  And then...
 
-![alt text][crickets]
-[crickets]: https://s3.amazonaws.com/learn-verified/crickets.jpg
+![crickets](https://s3.amazonaws.com/learn-verified/crickets.jpg)
 > Crickets
 
 
@@ -53,18 +47,15 @@ There were no updates to the language until 2009.
 Let's think about that.  This is the difference between 1995 and 2009 in cell phones.
 
 **Cell Phones in 1995**
-![alt text][pager]
-
-[pager]: https://s3.amazonaws.com/learn-verified/pager.jpg
+![pager](https://s3.amazonaws.com/learn-verified/pager.jpg)
 
 
   > Yea in 1994, there were nearly twice as many pagers in use 60 million as cell phones 34 million.  Javascript was written in 1995.  
 
 **Cell Phones in 2009**
 
-![alt text][iphone]
 
-[iphone]: https://s3.amazonaws.com/learn-verified/iphone.jpg
+![iphone](https://s3.amazonaws.com/learn-verified/iphone.jpg)
 
 > The iPhone had been around since June 2007.  In 2009, it was the world's third most popular cell phone.  Javascript was updated in 2009.
 
@@ -79,8 +70,7 @@ For its first ten years of existence, professional developers did not really con
 Then in 2005, something happened.  Google Maps launched.  Before google maps there was Mapquest.  And every time a user wanted to view another part of a map, he would have to wait for a full page refresh and the page to fully reload.  
 
 
-![alt text][maps]
-[maps]: https://s3.amazonaws.com/learn-verified/google-maps-mapquest.jpg
+![maps](https://s3.amazonaws.com/learn-verified/google-maps-mapquest.jpg)
 > Google Maps showed that Javascript could make websites feel like an interactive Desktop application.
 
 With Google maps, a user could drag around the map and it would smoothly update.  There would be no full refresh.  The user could smoothly interact with a webpage as if it were a desktop application, or a video game.  
@@ -95,18 +85,16 @@ Soon after the debut of Google Maps, programmers began trying to fix Javascript 
 
 By 2010, Javascript frameworks were released.  Frameworks allow developers to code more easily by encouraging specific practices, and including useful libraries.  In 2010, Google released the AngularJS framework, and today it is used by 10,000 companies including PayPal and the Youtube.  In 2013, Facebook released React, which today is used by companies like Netflix, Yahoo!, and Khan Academy.  Additional frameworks like React Native allow developers to build professional grade Android and IPhone apps with Javascript.  
 
-![alt text][javascript]
-[javascript]: https://s3.amazonaws.com/learn-verified/angular-react-ember.png
+![javascript](https://s3.amazonaws.com/learn-verified/angular-react-ember.png)
 
 ### Upgrades to Javascript
 
 In 2015, the powers that make Javascript updated the language, to make it more developer friendly.  With all of these updates to Javascript, and with the flexibility that the language provides, the Javascript community is still rapidly developing best practices as to how to write Javascript code.  Dan Abramov made a major contribution to how programmers use Javascript with Redux in 2015.
 
-![alt text][abramov]
-[abramov]: https://s3.amazonaws.com/learn-verified/abramov.jpg
+![abramov](https://s3.amazonaws.com/learn-verified/abramov.jpg)
 
 ### The Point
 
 This is the world where you begin your Javascript journey.  Not with language and tools that are mature and polished, but emergent and still developing.  Where with these new patterns and frameworks, even the most experienced developers have only been exposed to them for a couple of years.  And where developers question how their long held tenets apply to this new world.  
 
-And to think all of this about shuffling around some HTML, and rearranging the DOM.  But how do we even use Javascript to interact with our HTML?  Great question.  Let's use that to begin our coding journey, and take each of the components of Javascript behavior in turn.
+And to think all of this about shuffling around some HTML.  But how do we even use Javascript to interact with our HTML?  Great question.  Let's use that to begin our coding journey, and take each of the components of Javascript behavior in turn.
