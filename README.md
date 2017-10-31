@@ -1,5 +1,5 @@
 # Javascript: it's kinda a big deal
-
+history history history
 So in the previous lesson, we learned the answer to what is Javascript. Javascript adds behavior to our HTML. Or in dev speak:
 
   * Javascript is a scripting language created to bring interactivity to the browser
@@ -98,3 +98,5 @@ In 2015, the powers that make Javascript updated the language, to make it more d
 This is the world where you begin your Javascript journey. Not with language and tools that are mature and polished, but emergent and still developing. Where with these new patterns and frameworks, even the most experienced developers have only been exposed to them for a couple of years. And where developers question how their long-held tenets apply to this new world.  
 
 To think all of this was about shuffling around some HTML. But how do we even use Javascript to interact with our HTML? Great question. Let's use that to begin our coding journey, and take each of the components of Javascript behavior in turn.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-and-the-world'>History of Javascript</a> on Learn.co and start learning to code for free.</p>
