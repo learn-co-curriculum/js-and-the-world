@@ -81,7 +81,7 @@ With this, programmers began to look at Javascript as a medium for creating inte
 
 ### 2005-Present: Javascript Emerges
 
-Soon after the debut of Google Maps, programmers began trying to fix Javascript and developed tools like JQuery and Node.js.  (We'll talk about JQuery later.)
+Soon after the debut of Google Maps, programmers began trying to fix Javascript and developed tools like jQuery and Node.js.  (We'll talk about jQuery later.)
 
 By 2010, Javascript frameworks were released. Frameworks allow developers to code more easily by encouraging specific practices and including useful libraries. In 2010, Google released the AngularJS framework, and today it is used by 10,000 companies including PayPal and Youtube. In 2013, Facebook released React, which today is used by companies like Netflix, Yahoo!, and Khan Academy. Additional frameworks like React Native allow developers to build professional grade Android and iPhone apps with Javascript.  
 
